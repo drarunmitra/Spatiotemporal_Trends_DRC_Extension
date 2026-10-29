@@ -32,19 +32,7 @@ format:
 :::
 
 ::: {.column width="34%"}
-::: {.ethics}
-**Ethics approval**
-
-Exempted from review by the Institutional Ethics Committee, AIIMS Bibinagar
-
-**Ref:** AIIMS/BBN/IEC/AUG/2024-Exemption
-
-**Date:** 26-08-2024
-
-**Reason:** analysis of publicly available data (NFHS, HMIS etc.)
-
-IEC to be informed of the NFHS-6 extension.
-:::
+![](images/iec_letter.jpg){.iec fig-alt="IEC exemption letter, AIIMS Bibinagar, Ref AIIMS/BBN/IEC/AUG/2024-Exemption, dated 26-08-2024"}
 :::
 
 ::::

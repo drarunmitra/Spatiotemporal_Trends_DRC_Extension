@@ -9,3 +9,4 @@
 .reveal .ethics { border: 2px solid #1a1a1a; padding: 0.8em; font-size: 0.8em; }
 .reveal .ethics p { margin: 0.35em 0; }
 .reveal table { font-size: 0.8em; }
+.reveal img.iec { max-height: 640px; width: auto; border: 1px solid #bbb; }
